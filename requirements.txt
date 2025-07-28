@@ -1,0 +1,6 @@
+PyMuPDF
+nltk
+rank_bm25
+transformers
+sentence-transformers
+torch

@@ -1,0 +1,82 @@
+{
+    "collection_name": "Collection 1",
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "query_used": "As a Travel Planner, Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-28T22:00:25.751120"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Cities.pdf",
+            "section_title": "areas. Learning a few basic French phrases can enhance your travel experience.",
+            "importance_rank": 1,
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Snacks: Bring a variety of snacks for travel and outings.",
+            "importance_rank": 2,
+            "page_number": 6
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "home. Consider packing a travel potty for young children.",
+            "importance_rank": 3,
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Swimwear: Swimsuits and cover-ups for beach or pool days.",
+            "importance_rank": 4,
+            "page_number": 6
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Makeup: Pack essentials in a travel-sized makeup bag.",
+            "importance_rank": 5,
+            "page_number": 4
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "Marseille: The Oldest City in France History Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic location on the Mediterranean coast made it a vital trading port throughout history. The city's rich cultural heritage is reflected in its diverse architecture and vibrant atmosphere. Over the centuries, Marseille has been influenced by various cultures, including Greek, Roman, and North African, making it a melting pot of traditions and customs. Key Attractions Old Port (Vieux-Port) : The heart of Marseille, the Old Port has been a bustling harbor • for over 2,600 years. Today, it is a lively area filled with cafes, restaurants, and markets. Basilica of Notre-Dame de la Garde : This iconic basilica, perched on a hill • overlooking the city, oﬀers panoramic views of Marseille and the Mediterranean Sea. Built in the 19th century, it is a symbol of the city's maritime heritage. MuCEM (Museum of European and Mediterranean Civilizations) : This modern • museum explores the cultural history of the Mediterranean region through a variety of exhibits and interactive displays. Le Panier : The oldest district in Marseille, Le Panier is a maze of narrow streets, • colorful buildings, and historic landmarks. It's a great place to explore the city's past and enjoy its vibrant culture. Local Experiences Boat Trip to the Calanques : Take a boat trip to the Calanques, a series of stunning • limestone cliﬀs and coves along the coast. Fish Market at the Old Port : Visit the fish market at the Old Port to experience the • local seafood culture. Street Art in Cours Julien : Explore the vibrant street art scene in the Cours Julien • district. Cultural Highlights Marseille is known for its vibrant arts scene, with numerous galleries, theaters, and music venues. The city hosts several festivals throughout the year, including the Festival de Marseille, which celebrates contemporary dance, theater, and music. Marseille's cuisine is",
+            "page_number": 2,
+            "semantic_score": 0.3961595892906189
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Additional Tips: Bring a favorite stuﬀed animal or comfort item to help kids feel at • home. Consider packing a travel potty for young children. Special Considerations Beach Trips Beach Bag: A large, waterproof bag for essentials. • Towels: Lightweight, quick-drying beach towels. • Beach Toys: Buckets, shovels, and toys for kids. • Snorkeling Gear: Bring your own gear for a better fit and comfort. • Additional Tips: Pack a beach umbrella or tent for shade and a cooler for drinks and • snacks. Consider bringing a waterproof phone case to protect your device. Hiking and Outdoor Activities Backpack: A sturdy, comfortable backpack for essentials. • Water Bottle: A reusable water bottle. • First Aid Kit: A small kit with band-aids, antiseptic wipes, and medications. • Insect Repellent: Protect against bugs and mosquitoes. • Additional Tips: Wear moisture-wicking clothing and sturdy hiking boots. Bring a map • and compass or GPS device. Pack energy bars or snacks for long hikes. City Exploration Day Bag: A small, secure day bag for carrying essentials like water, snacks, and a • camera. Comfortable Shoes: Wear comfortable walking shoes for exploring cities. • Guidebook: A guidebook or map to help navigate and find points of interest. • Additional Tips: Use a money belt or hidden pouch to keep valuables safe. Consider • using public transportation to explore cities eﬃciently. Wine Tours Comfortable Clothing: Wear comfortable, casual clothing suitable for walking and • wine tasting.",
+            "page_number": 6,
+            "semantic_score": 0.37648290395736694
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Notebook: Bring a notebook to jot down notes about the wines you taste. • Water Bottle: Stay hydrated by drinking water between tastings. • Additional Tips: Plan your wine tour route in advance and consider hiring a driver or • joining a guided tour to avoid drinking and driving. Tips and Tricks for Packing Check the Weather: Check the forecast before packing to ensure appropriate clothing. • Make a Packing List: Create a list to ensure nothing is forgotten. Cross oﬀ items as you • pack. Use Packing Cubes: Organize clothes and maximize space. • Roll Your Clothes: Save space and reduce wrinkles. • Pack Dual-Purpose Items: Choose items that serve multiple purposes. • Wear Bulky Items: Wear bulky items like coats or boots during travel to save suitcase • space. Pack a Day Bag: Bring a small day bag for daily excursions. • Leave Room for Souvenirs: Leave extra space or bring a foldable bag for souvenirs. • Additional Tips: Pack a small travel umbrella, a reusable shopping bag, and a • portable phone charger. Consider using a luggage scale to avoid overweight baggage fees.",
+            "page_number": 7,
+            "semantic_score": 0.3020608425140381
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Additional Tips: Bring a favorite stuﬀed animal or comfort item to help kids feel at • home. Consider packing a travel potty for young children. Special Considerations Beach Trips Beach Bag: A large, waterproof bag for essentials. • Towels: Lightweight, quick-drying beach towels. • Beach Toys: Buckets, shovels, and toys for kids. • Snorkeling Gear: Bring your own gear for a better fit and comfort. • Additional Tips: Pack a beach umbrella or tent for shade and a cooler for drinks and • snacks. Consider bringing a waterproof phone case to protect your device. Hiking and Outdoor Activities Backpack: A sturdy, comfortable backpack for essentials. • Water Bottle: A reusable water bottle. • First Aid Kit: A small kit with band-aids, antiseptic wipes, and medications. • Insect Repellent: Protect against bugs and mosquitoes. • Additional Tips: Wear moisture-wicking clothing and sturdy hiking boots. Bring a map • and compass or GPS device. Pack energy bars or snacks for long hikes. City Exploration Day Bag: A small, secure day bag for carrying essentials like water, snacks, and a • camera. Comfortable Shoes: Wear comfortable walking shoes for exploring cities. • Guidebook: A guidebook or map to help navigate and find points of interest. • Additional Tips: Use a money belt or hidden pouch to keep valuables safe. Consider • using public transportation to explore cities eﬃciently. Wine Tours Comfortable Clothing: Wear comfortable, casual clothing suitable for walking and • wine tasting.",
+            "page_number": 6,
+            "semantic_score": 0.2376522570848465
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Additional Tips: Download maps and travel guides to your devices for oﬄine use. • Consider bringing a portable Wi-Fi hotspot for reliable internet access.",
+            "page_number": 4,
+            "semantic_score": 0.23199880123138428
+        }
+    ]
+}
